@@ -1,0 +1,40 @@
+ @import url('https://fonts.googleapis.com/css?family=Pangolin');
+ 
+body {
+    text-align: center;
+    background-image: url('img/light-bg1.png');
+    font-family: 'Pangolin', cursive;
+}
+
+.title {
+    font-size: 72px;
+}
+
+p {
+    font-size: 32px;
+    line-height: 1.5;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 20px;
+    background-color: darkmagenta;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    border:0;
+}
+
+.guess{
+    font-size: 95px;
+    width:175px;
+    text-align: right;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.trophy{
+    width: 200px;
+}
